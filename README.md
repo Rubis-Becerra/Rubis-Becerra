@@ -18,18 +18,18 @@ Combino pensamiento analítico, enfoque estructurado y herramientas de análisis
 ## 🛠️ Tecnologías y Herramientas
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Microsoft_Excel-555555?style=flat&logo=microsoft-excel&logoColor=white"/> .
-  <img src="https://img.shields.io/badge/Google_Sheets-555555?style=flat&logo=google-sheets&logoColor=white"/> . 
-  <img src="https://img.shields.io/badge/Power_BI-555555?style=flat&logo=powerbi&logoColor=F2C811"/> .
-  <img src="https://img.shields.io/badge/Power_Query-555555?style=flat"/> . 
-  <img src="https://img.shields.io/badge/DAX-555555?style=flat"/> . 
-  <img src="https://img.shields.io/badge/SQL-555555?style=flat"/> .  
-  <img src="https://img.shields.io/badge/Python-555555?style=flat&logo=python&logoColor=white"/> . 
-  <img src="https://img.shields.io/badge/Jupyter-555555?style=flat&logo=jupyter&logoColor=white"/> . 
-  <img src="https://img.shields.io/badge/Pandas-555555?style=flat&logo=pandas&logoColor=white"/> .
-  <img src="https://img.shields.io/badge/NumPy-555555?style=flat&logo=numpy&logoColor=white"/> .  
-  <img src="https://img.shields.io/badge/Matplotlib-555555?style=flat"/> . 
-  <img src="https://img.shields.io/badge/Seaborn-555555?style=flat"/> .
+  <img src="https://img.shields.io/badge/Microsoft_Excel-555555?style=flat&logo=microsoft-excel&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Google_Sheets-555555?style=flat&logo=google-sheets&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Power_BI-555555?style=flat&logo=powerbi&logoColor=F2C811"/> 
+  <img src="https://img.shields.io/badge/Power_Query-555555?style=flat"/> 
+  <img src="https://img.shields.io/badge/DAX-555555?style=flat"/> 
+  <img src="https://img.shields.io/badge/SQL-555555?style=flat"/> 
+  <img src="https://img.shields.io/badge/Python-555555?style=flat&logo=python&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Jupyter-555555?style=flat&logo=jupyter&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Pandas-555555?style=flat&logo=pandas&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/NumPy-555555?style=flat&logo=numpy&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Matplotlib-555555?style=flat"/> 
+  <img src="https://img.shields.io/badge/Seaborn-555555?style=flat"/> 
 </p>
 
 
