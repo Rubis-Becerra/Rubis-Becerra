@@ -1,9 +1,8 @@
 #            👋 ¡Hola! Soy Rubis — Analista de Datos | BI Analyst
 
-Analista de Datos en transición desde la Ingeniería Civil, con más de 10 años de experiencia profesional en entornos técnicos,                                                                                       presupuestarios y orientados a proyectos.Combino pensamiento analítico, enfoque estructurado y herramientas de análisis de datos   
-para generar insights que mejoran la toma de decisiones y optimizan procesos de negocio.  
-🌐 Actualmente estoy expandiendo mis conocimientos en el mundo IT estudiando Ciencias de Datos con Coderhouse.
-
+Analista de Datos en transición desde la Ingeniería Civil, con más de 10 años de experiencia profesional en entornos técnicos, 
+presupuestarios y orientados a proyectos.Combino pensamiento analítico, enfoque estructurado y herramientas de análisis de datos
+para generar insights que mejoran la toma de decisiones y optimizan procesos de negocio.
 
 
 ## 📊 Sobre mí
@@ -14,6 +13,7 @@ para generar insights que mejoran la toma de decisiones y optimizan procesos de 
 • Uso de **Excel, Google Sheets, Power Bi (Power Query/DAX), SQL,  Python (Pandas/Numpy), Matplotlib y Seaborn**.  
 • Interés en **Business Intelligence, análisis descriptivo y resolución de problemas reales con datos y Data Science**.  
 • Estilo de trabajo: ordenado, analítico, práctico, enfocado en resolución y mejoras.
+🌐 Actualmente estoy expandiendo mis conocimientos en el mundo IT estudiando Ciencias de Datos con Coderhouse.
 
 
 ## 🛠️ Tecnologías y Herramientas
