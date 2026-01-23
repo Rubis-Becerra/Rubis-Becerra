@@ -18,6 +18,22 @@ Combino pensamiento analítico, enfoque estructurado y herramientas de análisis
 
 <p align="left">
   <img src=https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)/>
+  <img src=https://img.shields.io/badge/Google_Sheets-34A853?style=flat&logo=google-sheets&logoColor=white)>
+  <img src=https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)>
+  <img src=https://img.shields.io/badge/Power_Query-000000?style=flat)>
+  <img src=https://img.shields.io/badge/DAX-000000?style=flat)>
+  <img src=https://img.shields.io/badge/SQL-003B57?style=&logoColor=white)>
+  <img src=https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)>
+  <img src=https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)>
+  <img src=https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)>
+  <img src=https://img.shields.io/badge/NumPy-4DABCF?style=flat&logo=numpy&logoColor=white)>
+  <img src=https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white)>
+  <img src=https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=python&logoColor=white)>
+</p>
+
+
+<p align="left">
+  <img src=https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)/>
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat&logo=google-sheets&logoColor=white)
 ![Power_BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Power Query](https://img.shields.io/badge/Power_Query-000000?style=flat)
