@@ -16,7 +16,7 @@ Combino pensamiento analítico, enfoque estructurado y herramientas de análisis
 ## 🛠️ Tecnologías y Herramientas
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Microsoft_Excel-dimgrey?style=flat&logo=microsoft-excel&logoColor=217346"/>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-darkgrey?style=flat&logo=microsoft-excel&logoColor=217346"/>
   <img src="https://img.shields.io/badge/Google_Sheets-lightgrey?style=flat&logo=google-sheets&logoColor=34A853"/>
   <img src="https://img.shields.io/badge/Power_BI-lightgrey?style=flat&logo=powerbi&logoColor=F2C811"/>
   <img src="https://img.shields.io/badge/Power_Query-lightgrey?style=flat"/>
