@@ -3,6 +3,7 @@
 
 Analista de Datos en transición desde la Ingeniería Civil, con más de 10 años de experiencia profesional en entornos técnicos, presupuestarios y orientados a proyectos.
 Combino pensamiento analítico, enfoque estructurado y herramientas de análisis de datos para generar insights que mejoran la toma de decisiones y optimizan procesos de negocio.
+Actualmente estoy expandiendo mis conocimientos en el mundo IT estudiando Ciencias de Datos con Coderhouse.
 
 
 ## 📊 Sobre mí
