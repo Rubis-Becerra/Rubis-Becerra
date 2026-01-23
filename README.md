@@ -18,6 +18,7 @@ para generar insights que mejoran la toma de decisiones y optimizan procesos de 
 
 ## 🛠️ Tecnologías y Herramientas
 
+
 <p align="left">
   <img src="https://img.shields.io/badge/Microsoft_Excel-555555?style=flat&logo=microsoft-excel&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Google_Sheets-555555?style=flat&logo=google-sheets&logoColor=white"/>  
@@ -35,6 +36,8 @@ para generar insights que mejoran la toma de decisiones y optimizan procesos de 
   <img src="https://img.shields.io/badge/Matplotlib-555555?style=flat"/> 
   <img src="https://img.shields.io/badge/Seaborn-555555?style=flat"/> 
 </p>
+
+
 
 
 ## 📈 Qué me distingue
