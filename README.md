@@ -15,6 +15,7 @@ para generar insights que mejoran la toma de decisiones y optimizan procesos de 
 • Estilo de trabajo: ordenado, analítico, práctico, enfocado en resolución y mejoras.  
 🌐 Actualmente estoy expandiendo mis conocimientos en el mundo IT estudiando Ciencias de Datos con Coderhouse.
 
+## 📊 Portfolio: https://bit.ly/Portfolio_Repositorio_RB
 
 ## 🛠️ Tecnologías y Herramientas
 
@@ -55,6 +56,6 @@ para generar insights que mejoran la toma de decisiones y optimizan procesos de 
 ✉️ Email: rubisbecerra.on@gmail.com  
 🔗 LinkedIn: www.linkedin.com/in/rubis-becerra
 
-
+💼 **Abierta a oportunidades laborales en posiciones de Analista de Datos y Business Intelligence**.
 
 
