@@ -14,8 +14,8 @@ para generar insights que mejoran la toma de decisiones y optimizan procesos de 
 • Estilo de trabajo: ordenado, analítico, práctico, enfocado en resolución y mejoras.  
 🌐 Actualmente estoy expandiendo mis conocimientos en el mundo IT estudiando Ciencias de Datos con Coderhouse.
 
-## 📊 Portfolio: https://bit.ly/Portfolio_Repositorio_RB  
-## 📊 Github: https://github.com/Rubis-Becerra?tab=repositories
+### 📊 Portfolio: https://bit.ly/Portfolio_Repositorio_RB  
+### 📊 Github: https://github.com/Rubis-Becerra?tab=repositories
 
 ## 🛠️ Tecnologías y Herramientas
 
