@@ -7,9 +7,9 @@ para generar insights que mejoran la toma de decisiones y optimizan procesos de 
 ## 📊 Sobre mí
 
 • Trabajo con datos para transformarlos en **insights que faciliten el análisis y la toma de decisiones**.  
-• Experiencia en **investigación de mercados,vigilancia tecnológica, construcción de prompts para inteligencia artificial (IA), seguimiento de indicadores, gestión de proyectos y control de presupuestos/costos**.  
+• Experiencia en **investigación de mercados, vigilancia tecnológica, construcción de prompts para inteligencia artificial (IA), seguimiento de indicadores, gestión de proyectos y control de presupuestos/costos**.  
 • Experiencia en **limpieza, transformación y análisis exploratorio de datos (EDA)**.  
-• Uso de **Excel, Google Sheets, Power Bi (Power Query/DAX), SQL,  Python (Pandas/Numpy), Matplotlib, Seaborn y Scikit-learn**.  
+• Uso de **Excel, Google Sheets, Power Bi (Power Query/DAX), SQL,  Python (Pandas/Numpy), Matplotlib, Seaborn, Scikit-learn, IA**.  
 • Interés en **Business Intelligence, análisis descriptivo y resolución de problemas reales con datos y Data Science**.  
 • Estilo de trabajo: ordenado, analítico, práctico, enfocado en resolución y mejoras.  
 🌐 Actualmente estoy expandiendo mis conocimientos en el mundo IT estudiando Ciencias de Datos con Coderhouse.
@@ -54,6 +54,6 @@ para generar insights que mejoran la toma de decisiones y optimizan procesos de 
 ✉️ Email: rubisbecerra.on@gmail.com  
 🔗 LinkedIn: www.linkedin.com/in/rubis-becerra
 
-💼 **Abierta a oportunidades laborales como Analista de Datos, BI Analyst, Reporting Analyst o Power BI Developer.**
+### 💼 Abierta a oportunidades laborales como Analista de Datos, BI Analyst, Reporting Analyst o Power BI Developer.
 
 
